@@ -1,8 +1,8 @@
 def longestConsecutiveSequence(nums):
 
     """ Brute force approach takes O(n^3), 
-    but this algorithm, having analyzed in the amortized approach, takes O (N) approach ."""
-    
+    but this algorithm, having analyzed in the amortized approach, takes O (N) ."""
+
     max_count = 0
 
     freq = set()
