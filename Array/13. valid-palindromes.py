@@ -1,4 +1,7 @@
 def isPalindrome(s):
+
+    """Code is written based on the cost effectiveness."""
+
     left = 0
     right = len(s) - 1
 
